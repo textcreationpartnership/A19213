@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general confession set furth for all men and saruauntes to say euery morninge before they go to their worke or other busines also graces before dynner [and] supper</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1552-1553</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19213</idno>
+            <idno type="STC">STC 5628</idno>
+            <idno type="STC">ESTC S109070</idno>
+            <idno type="EEBO-CITATION">99844720</idno>
+            <idno type="PROQUEST">99844720</idno>
+            <idno type="VID">9558</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19213)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9558)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 32:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general confession set furth for all men and saruauntes to say euery morninge before they go to their worke or other busines also graces before dynner [and] supper</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Jhon Daye, dwelling ouer Aldersgate beneth Saynte Martins,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>[1552-53]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon; publication date conjectured by STC.</note>
+                  <note>Signatures: A.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Creeds --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:9558:1" rendition="simple:additions"/>
+            <pb facs="tcp:9558:1"/>
+            <p>
+               <figure>
+                  <p>¶ A ge<g ref="char:EOLhyphen"/>neral Confeſ<g ref="char:EOLhyphen"/>ſion ſet furth for all Men and ſaruauntes to ſay euery morning before they go to their worke or other buſi<g ref="char:EOLhyphen"/>nes, alſo graces be<g ref="char:EOLunhyphen"/>fore dynner &amp; Supper</p>
+                  <p>(.*.)</p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="morning_prayer">
+            <pb facs="tcp:9558:2"/>
+            <pb facs="tcp:9558:2"/>
+            <head>A Mornyng prayer</head>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">O</seg> Mercie<g ref="char:EOLhyphen"/>ful &amp; moſt louing Fa<g ref="char:EOLunhyphen"/>ther whoſe loue is in<g ref="char:EOLhyphen"/>finit, whoſe merci indu<g ref="char:EOLunhyphen"/>reth for e<g ref="char:EOLhyphen"/>uer, we ſinful creatures, truſting in thyne vnſpeakeable goodnes and loue towards vs, do appere this morning before thy deuyne maieſtye, moſt lowlye confeſſyng our manifold ſinnes, and innume<g ref="char:EOLunhyphen"/>rable tranſgreſſyons of thy com<g ref="char:EOLhyphen"/>maundements, and fatherly wil. Againſt the onelye, agaynſte the (O Lorde: haue we ſynned, ther<g ref="char:EOLhyphen"/>fore we confeſſe oure ſynnes, we knowledg our offe<g ref="char:cmbAbbrStroke">̄</g>ces, we accuſe our ſelues vnto the O mercyfull lord, &amp; wyl not hyde our vnrygh<g ref="char:EOLhyphen"/>touſnes.
+<pb facs="tcp:9558:3"/>We finde in oure ſelues nothinge but ignorance of thy wil diſobedience, miſtruſte, douteful<g ref="char:EOLhyphen"/>nes in thy goodnes, and incredu<g ref="char:EOLhyphen"/>litiy, hatred, and conte<g ref="char:cmbAbbrStroke">̄</g>pt of al ſpi<g ref="char:EOLhyphen"/>rytuall thynges, ſelfeloue, confy<g ref="char:EOLhyphen"/>dence in oure ſelues and ferue<g ref="char:cmbAbbrStroke">̄</g>t lu<g ref="char:EOLhyphen"/>ſtyng after carnal thynges of thys worlde. And this tree of oure cor<g ref="char:EOLhyphen"/>rupt nature, bringeth forth conty<g ref="char:EOLhyphen"/>nually in vs none other frute, but rotte<g ref="char:cmbAbbrStroke">̄</g>, and vnſauery workes of the fleſhe, in thoughtes wordes and doynges, vnto condempnacyon. Wherfore, we humbly beſeche thy fatherlye goodneſſe, euen for thy ſonne Ieſus Chriſtes ſake, whom thou haſt ſet forth for a purchaſer towarde vs of mercye, throughe faith in his bloude: to make oure hertes clene, take away our ſtonye hertes, &amp; geue vnto vs a true and
+<pb facs="tcp:9558:3"/>a lyuely faith, whiche ſhall worcke contynuallye by loue, throughe Chriſt. Haue mercy vpon vs, for<g ref="char:EOLhyphen"/>geue vs our ſinnes, for thy ſonnes ſake, certifye our Conſcience of re<g ref="char:EOLhyphen"/>miſſion of the ſame, by thy holye ſpirit, by whoſe operacion, ſo mor<g ref="char:EOLhyphen"/>tify in vs our old man, the whole body of ſinne, that we continualy, dying vnto ſin may walcke in new<g ref="char:EOLunhyphen"/>neſſe of lyfe, to the glorye of thy name, through Ieſus Chriſte our Lorde. So be it.</p>
+            </div>
+            <div type="part">
+               <head>☞ Then ſay thys. lxxxvi. Pſalme fol<g ref="char:EOLhyphen"/>lowyng treatably.</head>
+               <p>
+                  <seg rend="decorInit">B</seg>Owe downe thyne eare (O Lorde) and heare me, for I am pore and in miſery.</p>
+               <p>O preſerue my ſoule, for I am holye: my God ſaue thy ſeruaunte, that putteth
+<pb facs="tcp:9558:4"/>hys truſt in the.</p>
+               <p>Be mercyful vnto me (O Lord) for I wyl cal dayly vpon the. Comforte the ſoule of thy ſeruant for vnto the (O Lorde) do I lyfte vp my ſoule.</p>
+               <p>For thou Lord arte good and gracious, and of great mercy vn<g ref="char:EOLhyphen"/>to al them that cal vpon the.</p>
+               <p>Geue eare Lorde to my prayer, and ponder the voyce of my hum<g ref="char:EOLhyphen"/>ble deſyres.</p>
+               <p>In the time of my trouble I wyl cal vpon the, for thou heareſt me. Amonge the Gods there is none lyke vnto the (O Lorde) there is not one that can do as thou doſte.</p>
+               <p>Al nacio<g ref="char:cmbAbbrStroke">̄</g>s who<g ref="char:cmbAbbrStroke">̄</g> thou haſte made ſhall come and worſhyppe the, O Lord: and ſhal glorify thy name.</p>
+               <p>For thou art great, &amp; doeſt won<g ref="char:EOLhyphen"/>derous thynges, y<hi rend="sup">u</hi> arte God alone
+<pb facs="tcp:9558:4"/>Teache me thy way (O Lord) &amp; I wil walke in thy truth: O knit my herte vnto the, that it maye feare thy name.</p>
+               <p>I wil tha<g ref="char:cmbAbbrStroke">̄</g>ke, y<hi rend="sup">e</hi> O lord my God, with al my hart, &amp; wyll prayſe thy name for euer.</p>
+               <p>For great is thy mercy towarde me, and thou haſte delyuered my ſoule from the nethermooſte helle.</p>
+               <p>O God, the proude are ryſen a<g ref="char:EOLhyphen"/>gaynſte me, and the congregacy<g ref="char:EOLhyphen"/>ons of naughty men haue ſought after my ſoule, and haue not ſet y<hi rend="sup">e</hi> before theyr eyes.</p>
+               <p>But thou O lord God, art full of compaſſion, &amp; mercy, longe ſuf<g ref="char:EOLhyphen"/>fering, plenteous in goodnes and truthe.</p>
+               <p>O turne the then vnto me, and haue mercye vpon me: geue thy
+<pb facs="tcp:9558:5"/>ſtrength vnto the ſeruaunt, and helpe the ſon of thyn handmaid. Shewe ſome token vpon me for good, y<hi rend="sup">t</hi> they which hate me may ſe it, &amp; be aſhamed, becauſe thou Lord haſt helped me, &amp; co<g ref="char:cmbAbbrStroke">̄</g>mfor<g ref="char:EOLhyphen"/>ted me.</p>
+               <p>Glori be to the father, to the ſo<g ref="char:cmbAbbrStroke">̄</g>ne and the holy ghoſt.</p>
+               <p>As it was in the begynnynge, is now, &amp; euer ſhalbe world wyth<g ref="char:EOLhyphen"/>out ende. Amen.</p>
+               <p>☞ Lord haue mercie vpon vs.</p>
+               <p>Chriſt haue mercie vpon vs.</p>
+               <p>Lord haue mercy vpo<g ref="char:cmbAbbrStroke">̄</g> vs.</p>
+            </div>
+            <div type="part">
+               <head>Then ſaie the Crede &amp; the lordes praier. &amp;c.</head>
+               <p>Lord ſhew thy mercy vpon vs.</p>
+               <p>And graunte vs thi ſaluacion.</p>
+               <p>¶ O Lorde ſaue the King.</p>
+               <p>And mercifulli here vs whe<g ref="char:cmbAbbrStroke">̄</g> we cal vp<g ref="char:EOLhyphen"/>pon the.</p>
+               <p>Indue thy mynyſters w<hi rend="sup">t</hi> rightuouſnes.</p>
+               <l>
+                  <pb facs="tcp:9558:5"/>
+And make thi choſen people Ioiful:</l>
+               <l>O Lord ſaue thy people</l>
+               <l>And bleſſe thine enheritaunce.</l>
+               <l>¶ Gyue peace in our tyme O Lord.</l>
+               <l>Becauſe there is none other y<hi rend="sup">t</hi> fighteth for vs but onli thou O God:</l>
+               <l>
+                  <g ref="char:cross">✚</g> O God mak clene oure heartes with<g ref="char:EOLhyphen"/>in vs</l>
+               <l>And take not thy holy ſpirite from vs.</l>
+            </div>
+            <div type="part">
+               <head>Let vs praie.</head>
+               <p>
+                  <seg rend="decorInit">O</seg> God which art au<g ref="char:EOLunhyphen"/>tor of peace &amp; louer of concorde, in kno<g ref="char:EOLunhyphen"/>ledge of whom ſta<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>deth oure eternall lyfe whoſe ſeruyce is perfect fredome: defe<g ref="char:cmbAbbrStroke">̄</g>de vs thy humble ſeruantes in al aſſults of our enemyes, that we ſuerly truſ<g ref="char:EOLhyphen"/>ting in thy defe<g ref="char:cmbAbbrStroke">̄</g>ce, may not feare the power of ani aduerſaries, tho rowe the myght of Ieſu Chriſte our Lord. Amen.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:9558:6"/>
+               <p>
+                  <seg rend="decorInit">O</seg> Lord our heaue<g ref="char:cmbAbbrStroke">̄</g>lye fa<g ref="char:EOLhyphen"/>ther almyghty &amp; euer<g ref="char:EOLhyphen"/>laſtynge God, whyche haſt ſafely brought vs to the beginninge of this day: de<g ref="char:EOLunhyphen"/>fe<g ref="char:cmbAbbrStroke">̄</g>d vs in the ſame with thi migh<g ref="char:EOLhyphen"/>tye power, and graunt that thys daye we fall into no ſynne, nether runne into anye kynd of dau<g ref="char:cmbAbbrStroke">̄</g>ger, but that al our doings may be or dred by thy gouernau<g ref="char:cmbAbbrStroke">̄</g>ce, to do all wayes that is ryghtuous in thy ſyght, through Ieſus Chriſt our Lord. Amen.</p>
+            </div>
+            <div type="part">
+               <head>A prayer for the Kyn<g ref="char:EOLhyphen"/>ges Maieſtye.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>Lmyghtye God whoſe kingdom is euerlaſting and power infinit, haue mercye vpon the whole congregacion, and ſo rule the hart of thy choſen ſeruau<g ref="char:cmbAbbrStroke">̄</g>t, Edward the ſyxte, oure kyng &amp; gouernour that
+<pb facs="tcp:9558:6"/>he (knowyng whoſe miniſter he is may aboue al thynges, ſeke thy ho<g ref="char:EOLunhyphen"/>noure and glorye: and that we hys ſubiectes (duely conſidering whoſe authoryty he hath) may faithfully ſerue, honoure, and humblye obeye hym, in the, and for the, accordyng to thy bleſſed worde &amp; ordinaunce: Thorow Ieſus Chriſt our Lorde who wyth the, and the holye gooſt, lyueth and reigneth euer one god, worlde wythout ende. Amen.</p>
+            </div>
+         </div>
+         <div type="grace_before_dinner">
+            <head>¶ Grace before Dynner.</head>
+            <p>
+               <seg rend="decorInit">I</seg>Eſus Chriſte the ſonne of God, that for our ſakes dyd<g ref="char:EOLhyphen"/>deſt dye and ſhed thy moſte precious bloud, for the forgeuenes of our ſins, bleſſe thou theſe our meates and drinks, which we purpoſe at this time to receiue in thy name, &amp; aſſyſt vs O Lord, wyth thy grace
+<pb facs="tcp:9558:7"/>of thy holy ſpirit, to amend our ly<g ref="char:EOLunhyphen"/>ues, that according to thy holye &amp; pure Goſpel, we may lyue to thy glorye, and the profyte of our bre<g ref="char:EOLunhyphen"/>thren. And when the daies of this oure pylgrymage ſhal be ended, graunt vs to finiſh y<hi rend="sup">e</hi> ſame in thy peace, that we may at the daye of iudgement, haue a ioyfull reſur<g ref="char:EOLhyphen"/>reccion into euerlaſting lyfe: tho<g ref="char:EOLhyphen"/>rough thy moſt precious deathe: whiche art the ſonne of God and our euerlaſting ſauiour. To who<g ref="char:cmbAbbrStroke">̄</g> with the father, and the holy goſt be all honoure, glory, and prayſe for euer and euer. Amen.</p>
+            <p>GOd preſerue Kynge Edwarde the .vi. God deſtroye all hys ennemyes. God preſeruehys Syſters, wyth all hys moſte honourable Counſellers God ayd the clargy wyth hys ſpirit inſettyng furth of his truth. God preſerue al y<hi rend="sup">e</hi> Nobiliti of this relme and all the Commones of the ſame. God defende the fauourers of the Goſpell. God chaunge the harts of
+<pb facs="tcp:9558:7"/>our ennemyes, and ſend them a bet<g ref="char:EOLunhyphen"/>ter mynde. The power of God de<g ref="char:EOLhyphen"/>ſtroye Antichriſte, wyth al hys wyc<g ref="char:EOLhyphen"/>ked kyngdome. God ſende the goſ<g ref="char:EOLhyphen"/>pel a ioyful &amp; a fre paſſage through<g ref="char:EOLhyphen"/>out the whole world. God ſende vn<g ref="char:EOLhyphen"/>to al degrees ſuche grace that they may walke worthely in their vocaci<g ref="char:EOLunhyphen"/>on and callynge. Amen.</p>
+            <p>☞ The peace of God, whych paſſ<g ref="char:EOLhyphen"/>eth al vnderſtandyng, kepe our her tes and mindes in the knoweledge and loue of God, and of hys ſonne Ieſus Chriſt our Lord. And the bleſ<g ref="char:EOLunhyphen"/>ſynge of God almyghty, the father the ſonne, and the holye goſte be a<g ref="char:EOLhyphen"/>mongeſte vs, and remayne wyth vs alwaye. Amen.</p>
+         </div>
+         <div type="grace_after_dinner">
+            <head>¶ Grace after Dynner.</head>
+            <p>
+               <seg rend="decorInit">O</seg> Lord whych art the crea<g ref="char:EOLhyphen"/>tor of all creatures, and haſte prepared for theym to do accordynge to the nature of theyr creacion: we moſte hartelye thanke the for theſe thy creatures whyche at thys tyme we receyued in thy name, beſechinge the (O fa<g ref="char:EOLhyphen"/>ther) that as our bodyes are nowe
+<pb facs="tcp:9558:8"/>by theſe thy gyftes refreſhed: ſo oure ſoule maye alſo be noury ſhed with the fode of euerlaſtynge life, in thy moſt holy teſtame<g ref="char:cmbAbbrStroke">̄</g>t, con<g ref="char:EOLhyphen"/>firmed with the bloud and deathe of Ieſus Chriſte thy ſonne and our ſauioure. To who<g ref="char:cmbAbbrStroke">̄</g> wyth the e<g ref="char:EOLhyphen"/>ternall father, and the holye goſte, be al honoure, glorye, &amp; prayſe for euer andeuer, Amen.</p>
+            <p>God preſerue Kynge Edward. &amp;c.</p>
+         </div>
+         <div type="grace_before_supper">
+            <head>Grace before Supper.</head>
+            <p>BRrethren, in that we are nowe here gathered together in the name of the Lorde, to taſte of theſe his gifts, which he hath ſent vs, let vs fyrſt geue him moſt har<g ref="char:EOLhyphen"/>tye tha<g ref="char:cmbAbbrStroke">̄</g>kes, for theſe &amp; all other hys benefites, ſhewed vpo<g ref="char:cmbAbbrStroke">̄</g> vs, callyng for grace of his holy ſpirit, that we maye daily growe into perfeccyon of godlines, to y<hi rend="sup">e</hi> glory of his moſte bleſſed name, and the co<g ref="char:cmbAbbrStroke">̄</g>forte of all
+<pb facs="tcp:9558:8"/>our brethren, mindful of their ne<g ref="char:EOLhyphen"/>ceſſitis, &amp; to ſuccoure &amp; helpe them being members of one body wyth vs, hauyng one head Ieſus chriſt which gaue him ſelfe for vs, a ſa<g ref="char:EOLhyphen"/>crifice of ſwete ſauoure vnto God the father, for the remiſſion of oure ſinnes, through his moſt precious bloude for euer &amp; euer. To whom wyth hym, and the holy goſt be al honoure, glory, and prayſe worlde without end. So be it, God pre. &amp;c</p>
+         </div>
+         <div type="grace_after_supper">
+            <head>Grace after Supper.</head>
+            <p>VVe thancke the O heauenlye father, whyche of thy aboun<g ref="char:EOLhyphen"/>daunte goodneſſe, haſte thys daye ſente vs our foode in due ſea<g ref="char:EOLhyphen"/>ſon, to noryſh theſe our mortall bo<g ref="char:EOLhyphen"/>dies, with beſeching alſo of thy in<g ref="char:EOLhyphen"/>finite mercye, to pardon and for<g ref="char:EOLhyphen"/>giue vs all our offences, whych we haue co<g ref="char:cmbAbbrStroke">̄</g>mitted againſte thy deuyne maieſty, that we maye thys nighte
+<pb facs="tcp:9558:9" rendition="simple:additions"/>reſte in the with a quiete conſcie<g ref="char:cmbAbbrStroke">̄</g>ce abiding thy holy hand in the more<g ref="char:EOLunhyphen"/>ning, to aryſe vs vp to do y<hi rend="sup">e</hi> thyng that ſhalbe pleaſaunt in thy ſyght to thy glory, and our ſoule healthe graunt this o father, for thy deare<g ref="char:EOLunhyphen"/>ly beloued ſons ſake Ieſus Chriſte our euerlaſting ſauiour. To who<g ref="char:cmbAbbrStroke">̄</g> with the &amp; the holye goſt, be al ho<g ref="char:EOLhyphen"/>nour, glory and prayſe, for euer &amp; euer. Amen. God preſerue. &amp;c.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by Iohn Daye, dwel<g ref="char:EOLhyphen"/>ling ouer Alderſgare beneth Saynte Martins.</p>
+            <pb facs="tcp:9558:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
